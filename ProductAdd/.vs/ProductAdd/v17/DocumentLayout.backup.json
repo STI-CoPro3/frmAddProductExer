@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tamay\\source\\repos\\ProductAdd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B65320C3-9B80-41C5-85FD-55AA3856C020}|ProductAdd\\ProductAdd.csproj|c:\\users\\tamay\\source\\repos\\productadd\\productadd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65320C3-9B80-41C5-85FD-55AA3856C020}|ProductAdd\\ProductAdd.csproj|solutionrelative:productadd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65320C3-9B80-41C5-85FD-55AA3856C020}|ProductAdd\\ProductAdd.csproj|C:\\Users\\Tamay\\source\\repos\\ProductAdd\\productadd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B65320C3-9B80-41C5-85FD-55AA3856C020}|ProductAdd\\ProductAdd.csproj|solutionrelative:productadd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65320C3-9B80-41C5-85FD-55AA3856C020}|ProductAdd\\ProductAdd.csproj|c:\\users\\tamay\\source\\repos\\productadd\\productadd\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65320C3-9B80-41C5-85FD-55AA3856C020}|ProductAdd\\ProductAdd.csproj|solutionrelative:productadd\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65320C3-9B80-41C5-85FD-55AA3856C020}|ProductAdd\\ProductAdd.csproj|c:\\users\\tamay\\source\\repos\\productadd\\productadd\\productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65320C3-9B80-41C5-85FD-55AA3856C020}|ProductAdd\\ProductAdd.csproj|solutionrelative:productadd\\productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65320C3-9B80-41C5-85FD-55AA3856C020}|ProductAdd\\ProductAdd.csproj|c:\\users\\tamay\\source\\repos\\productadd\\productadd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65320C3-9B80-41C5-85FD-55AA3856C020}|ProductAdd\\ProductAdd.csproj|solutionrelative:productadd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Tamay\\source\\repos\\ProductAdd\\ProductAdd\\Form1.cs",
+              "RelativeDocumentMoniker": "ProductAdd\\Form1.cs",
+              "ToolTip": "C:\\Users\\Tamay\\source\\repos\\ProductAdd\\ProductAdd\\Form1.cs",
+              "RelativeToolTip": "ProductAdd\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:13:28.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tamay\\source\\repos\\ProductAdd\\ProductAdd\\Form1.cs",
+              "RelativeDocumentMoniker": "ProductAdd\\Form1.cs",
+              "ToolTip": "C:\\Users\\Tamay\\source\\repos\\ProductAdd\\ProductAdd\\Form1.cs [Design]",
+              "RelativeToolTip": "ProductAdd\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:11:51.408Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tamay\\source\\repos\\ProductAdd\\ProductAdd\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ProductAdd\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Tamay\\source\\repos\\ProductAdd\\ProductAdd\\Form1.Designer.cs",
+              "RelativeToolTip": "ProductAdd\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:10:46.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tamay\\source\\repos\\ProductAdd\\ProductAdd\\Program.cs",
+              "RelativeDocumentMoniker": "ProductAdd\\Program.cs",
+              "ToolTip": "C:\\Users\\Tamay\\source\\repos\\ProductAdd\\ProductAdd\\Program.cs",
+              "RelativeToolTip": "ProductAdd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:10:17.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductClass.cs",
+              "DocumentMoniker": "C:\\Users\\Tamay\\source\\repos\\ProductAdd\\ProductAdd\\ProductClass.cs",
+              "RelativeDocumentMoniker": "ProductAdd\\ProductClass.cs",
+              "ToolTip": "C:\\Users\\Tamay\\source\\repos\\ProductAdd\\ProductAdd\\ProductClass.cs",
+              "RelativeToolTip": "ProductAdd\\ProductClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:27:03.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

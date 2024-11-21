@@ -1,0 +1,16 @@
+C:\Users\Tamay\source\repos\ProductAdd\ProductAdd\bin\Debug\net8.0-windows\ProductAdd.exe
+C:\Users\Tamay\source\repos\ProductAdd\ProductAdd\bin\Debug\net8.0-windows\ProductAdd.deps.json
+C:\Users\Tamay\source\repos\ProductAdd\ProductAdd\bin\Debug\net8.0-windows\ProductAdd.runtimeconfig.json
+C:\Users\Tamay\source\repos\ProductAdd\ProductAdd\bin\Debug\net8.0-windows\ProductAdd.dll
+C:\Users\Tamay\source\repos\ProductAdd\ProductAdd\bin\Debug\net8.0-windows\ProductAdd.pdb
+C:\Users\Tamay\source\repos\ProductAdd\ProductAdd\obj\Debug\net8.0-windows\ProductAdd.Inventory.resources
+C:\Users\Tamay\source\repos\ProductAdd\ProductAdd\obj\Debug\net8.0-windows\ProductAdd.csproj.GenerateResource.cache
+C:\Users\Tamay\source\repos\ProductAdd\ProductAdd\obj\Debug\net8.0-windows\ProductAdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tamay\source\repos\ProductAdd\ProductAdd\obj\Debug\net8.0-windows\ProductAdd.AssemblyInfoInputs.cache
+C:\Users\Tamay\source\repos\ProductAdd\ProductAdd\obj\Debug\net8.0-windows\ProductAdd.AssemblyInfo.cs
+C:\Users\Tamay\source\repos\ProductAdd\ProductAdd\obj\Debug\net8.0-windows\ProductAdd.csproj.CoreCompileInputs.cache
+C:\Users\Tamay\source\repos\ProductAdd\ProductAdd\obj\Debug\net8.0-windows\ProductAdd.dll
+C:\Users\Tamay\source\repos\ProductAdd\ProductAdd\obj\Debug\net8.0-windows\refint\ProductAdd.dll
+C:\Users\Tamay\source\repos\ProductAdd\ProductAdd\obj\Debug\net8.0-windows\ProductAdd.pdb
+C:\Users\Tamay\source\repos\ProductAdd\ProductAdd\obj\Debug\net8.0-windows\ProductAdd.genruntimeconfig.cache
+C:\Users\Tamay\source\repos\ProductAdd\ProductAdd\obj\Debug\net8.0-windows\ref\ProductAdd.dll
